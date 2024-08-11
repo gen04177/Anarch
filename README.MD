@@ -15,3 +15,5 @@
 - **TRIANGLE**: (+ down = menu, + up = jump, ...)
 - **Options**: map
 - **Touchpad**: menu
+
+For a better experience it is recommended to play with "free look" activated...
