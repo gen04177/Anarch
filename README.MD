@@ -1,6 +1,6 @@
 # Anarch PS5 Port
 
-`hbldr anarch_sdl.elf -h` or `hbldr anarch_sdl.elf`
+`hbldr /user/data/anarch_sdl.elf -h` or `hbldr /user/data/anarch_sdl.elf`
 
 ## Controls:
 
@@ -16,4 +16,4 @@
 - **Options**: map
 - **Touchpad**: menu
 
-For a better experience it is recommended to play with "free look" activated...
+For a better experience it is recommended to play with "free look" activated... (menu/look 2)
