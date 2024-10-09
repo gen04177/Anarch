@@ -1,4 +1,4 @@
-# Anarch PS5 Port
+# Anarch PS5 Port (1.xx-5.xx)
 
 `hbldr /user/data/anarch_sdl.elf -h` or `hbldr /user/data/anarch_sdl.elf`
 
